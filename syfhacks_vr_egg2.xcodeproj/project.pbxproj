@@ -17,6 +17,7 @@
 		518820A82C17B9FB001A4595 /* syfhacks_vr_egg2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518820A72C17B9FB001A4595 /* syfhacks_vr_egg2Tests.swift */; };
 		518820B22C17B9FB001A4595 /* syfhacks_vr_egg2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518820B12C17B9FB001A4595 /* syfhacks_vr_egg2UITests.swift */; };
 		518820B42C17B9FB001A4595 /* syfhacks_vr_egg2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518820B32C17B9FB001A4595 /* syfhacks_vr_egg2UITestsLaunchTests.swift */; };
+		518820C12C17D329001A4595 /* 3D_Coin_Gold.obj in Resources */ = {isa = PBXBuildFile; fileRef = 518820C02C17D329001A4595 /* 3D_Coin_Gold.obj */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		518820AD2C17B9FB001A4595 /* syfhacks_vr_egg2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = syfhacks_vr_egg2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		518820B12C17B9FB001A4595 /* syfhacks_vr_egg2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = syfhacks_vr_egg2UITests.swift; sourceTree = "<group>"; };
 		518820B32C17B9FB001A4595 /* syfhacks_vr_egg2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = syfhacks_vr_egg2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		518820C02C17D329001A4595 /* 3D_Coin_Gold.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 3D_Coin_Gold.obj; path = ../../../Downloads/3D_Coin_Gold.obj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				518820942C17B9FA001A4595 /* ViewController.swift */,
 				518820962C17B9FA001A4595 /* Main.storyboard */,
 				518820992C17B9FB001A4595 /* Assets.xcassets */,
+				518820C02C17D329001A4595 /* 3D_Coin_Gold.obj */,
 				5188209B2C17B9FB001A4595 /* LaunchScreen.storyboard */,
 				5188209E2C17B9FB001A4595 /* syfhacks_vr_egg2-Bridging-Header.h */,
 			);
@@ -237,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5188209A2C17B9FB001A4595 /* Assets.xcassets in Resources */,
+				518820C12C17D329001A4595 /* 3D_Coin_Gold.obj in Resources */,
 				5188209D2C17B9FB001A4595 /* Base in Resources */,
 				518820982C17B9FA001A4595 /* Base in Resources */,
 			);
@@ -448,6 +452,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Y6T6RGGPBN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -480,6 +485,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Y6T6RGGPBN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
